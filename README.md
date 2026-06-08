@@ -1,12 +1,12 @@
-# roncers
+# Martín Roncero
 ```
 (o< -- Hello! I'm Martin ✌ 
 //\
 V_/_
 ```
 
-Welcome to my GitHub profile. ⚡  
-Feel free to discuss & improve my code! 💻✨
+Welcome to my GitHub profile.   
+Feel free to discuss & improve my code! 
 
 ## 🔧 Technologies & Tools
 [![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org)
