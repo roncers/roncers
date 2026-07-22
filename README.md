@@ -1,8 +1,15 @@
 # Martín Roncero
 ```
-(o< -- Hello there! ✌ 
-//\
-V_/_
+     .-"-.
+    /_ _  \
+    \@ @  /
+    (_> _)
+      `)(_
+      /((_`)_,
+      \__(/-"
+     __|||__
+    ((__|__))
+
 ```
 
 Welcome to my GitHub profile.   
